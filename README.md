@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 # My Profile
 ## GitHub
 <p align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
-   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
 </p>
 
 ## kaggle
