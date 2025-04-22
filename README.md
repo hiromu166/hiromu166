@@ -16,15 +16,9 @@ Here are some ideas to get you started:
 ## GitHub
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="170px" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
+    <img alt="github stats" height="170px" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api?username=hiromu166&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="170px" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api/top-langs/?username=hiromu166&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api/top-langs/?username=hiromu166&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
 </p>
-
-## kaggle
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hiromoon166/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hiromoon166/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hiromoon166/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hiromoon166/discussion)
