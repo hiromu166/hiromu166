@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 # Hi, I'm hiromu
 I'm a data scientist and independent researcher based in 🗼 Tokyo. My main area of interest is natural language processing. I've performed well in data science competitions and have published several research papers. In my free time, I enjoy ☕ coffee, making latte art, and collecting and appreciating 🖼️ art.
 ## GitHub Stats
-<p align="left"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height=200 align="center" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api?username=hiromu166&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height=200 align="center" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api/top-langs/?username=hiromu166&layout=compact&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook" />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="github stats" height=200 align="center" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api?username=hiromu166&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Langs" height=200 align="center" src="https://github-readme-stats-hiromu166s-projects.vercel.app/api/top-langs/?username=hiromu166&layout=compact&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook" />
+</a>
